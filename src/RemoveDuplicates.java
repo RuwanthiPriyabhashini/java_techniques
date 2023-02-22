@@ -26,6 +26,7 @@ public class RemoveDuplicates {
         int[] finalArr =new int[j];
         for(int i=0;i<j;i++){
             finalArr[i] =newArr[i];
+
         }
         System.out.println(Arrays.toString(finalArr));
 
